@@ -1,0 +1,235 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S015 (3921426)  [2/23/2021]-[07/27/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\rt1064_som.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    ("Allegro Netlist Input Board File"
+       "c:\users\poppy\documents\cadence\boards\rt\allegro\rt1064_som_wifi.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\rt1064_som_wifi.brd"))
+  (Folder "Layout"
+    (File ".\allegro\rt1064_som.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som.brd")
+      (InputBoard ".\allegro\rt_som6.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_brkout_new_mem_layout_6layer.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_brkout_new_mem_layout_6layer.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_brkout_new_mem_layout_6layerbak.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_brkout_new_mem_layout_6layerbak.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som2.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som3.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som3.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som_wifi - copy.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som_wifi - copy.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som_wifi.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som_wifi.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\rt_som2.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt_som2.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt_som2_stripped_stripped.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt_som2_stripped_stripped.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt_som4.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt_som4.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt_som5.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt_som5.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt_som5_wifi.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt_som5_wifi.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt_som6.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt_som6.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "C:\USERS\POPPY\DOCUMENTS\CADENCE\BOARDS\RT\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "C:\USERS\POPPY\DOCUMENTS\CADENCE\BOARDS\RT\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "C:\USERS\POPPY\DOCUMENTS\CADENCE\BOARDS\RT\allegro\eco.txt")))
+  (MPSSessionName "poppy")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\rt1064_som.dsn")
+      (Path "Design Resources" ".\rt1064_som.dsn" "IMXRT1064_SOM")
+      (Path "Design Resources" ".\rt1064_som.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Layout")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache" "RESISTOR")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache"
+         "SM12B-SURS-TFLFSN")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache"
+         "SN74LVC1G07")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache"
+         "SN74LVC2G17DCK3")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache"
+         "solder_bridgex4")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache"
+         "SSM3K15ACTC")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache" "SW_PB_ESW")
+      (Select "Design Resources" ".\rt1064_som.dsn" "Design Cache" "TEST POINT"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 624 0 555"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 707 24 596")
+        (Scroll "0 -8")
+        (Zoom "26")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\GITHUB\RT1064_SOM.DSN")
+      (Schematic "IMXRT1064_SOM")
+      (Page "01_Power_Supplies"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 707 24 596")
+        (Scroll "0 -4")
+        (Zoom "35")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\GITHUB\RT1064_SOM.DSN")
+      (Schematic "IMXRT1064_SOM")
+      (Page "02_IMXRT1064_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 707 24 596")
+        (Scroll "0 -4")
+        (Zoom "35")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\GITHUB\RT1064_SOM.DSN")
+      (Schematic "IMXRT1064_SOM")
+      (Page "04_IMXRT1064_Boot"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 707 24 596")
+        (Scroll "136 132")
+        (Zoom "70")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\GITHUB\RT1064_SOM.DSN")
+      (Schematic "IMXRT1064_SOM")
+      (Page "05_SDRAM"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 707 24 596")
+        (Scroll "0 -4")
+        (Zoom "35")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\GITHUB\RT1064_SOM.DSN")
+      (Schematic "IMXRT1064_SOM")
+      (Page "06_SD_Card"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 707 24 596")
+        (Scroll "0 -4")
+        (Zoom "35")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\GITHUB\RT1064_SOM.DSN")
+      (Schematic "IMXRT1064_SOM")
+      (Page "07_USB")))
+  (PartMRUSelector
+    (1571983-4
+      (FullPartName "1571983-4.Normal")
+      (LibraryName
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\HOME_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (ANTENNA_1
+      (FullPartName "ANTENNA_1.Normal")
+      (LibraryName
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\HOME_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (Wurth_150353M153300
+      (FullPartName "Wurth_150353M153300.Normal")
+      (LibraryName
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\HOME_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\HOME_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (ESP32-PICO-V3-02
+      (FullPartName "ESP32-PICO-V3-02.Normal")
+      (LibraryName
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\HOME_MICROCONTROLLER.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\poppy\Documents\Cadence\Libraries\Capture"))
